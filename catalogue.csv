@@ -1,0 +1,34 @@
+file,features,mb,source,original
+data/pakistan/wfp_2022/pakistan_adm0_national_wfp_2022.geojson,1,0.19,"WFP, 2022-09-09",D:\GIS\pak_adm_wfp_20220909_shp\pak_admbnda_adm0_wfp_20220909.shp
+data/pakistan/ocha_2018/pakistan_adm0_national_ocha_2018.geojson,1,0.2,"OCHA, 2018-12-18",D:\GIS\adm\pak_adm_ocha_pco_gaul_20181218_shp\pak_admbnda_adm0_ocha_pco_gaul_20181218.shp
+data/pakistan/wfp_2022/pakistan_adm1_provinces_wfp_2022.geojson,7,0.51,"WFP, 2022-09-09",D:\GIS\pak_adm_wfp_20220909_shp\pak_admbnda_adm1_wfp_20220909.shp
+data/pakistan/ocha_2018/pakistan_adm1_provinces_ocha_2018.geojson,5,0.27,"OCHA, 2018-12-18",D:\GIS\adm\pak_adm_ocha_pco_gaul_20181218_shp\pak_admbnda_adm1_ocha_pco_gaul_20181218.shp
+data/pakistan/wfp_2022/pakistan_adm2_districts_wfp_2022.geojson,160,6.62,"WFP, 2022-09-09",D:\GIS\pak_adm_wfp_20220909_shp\pak_admbnda_adm2_wfp_20220909.shp
+data/pakistan/ocha_2018/pakistan_adm2_districts_ocha_2018.geojson,131,1.48,"OCHA, 2018-12-18",D:\GIS\adm\pak_adm_ocha_pco_gaul_20181218_shp\pak_admbnda_adm2_ocha_pco_gaul_20181218.shp
+data/pakistan/wfp_2022/pakistan_adm3_tehsils_wfp_2022.geojson,577,12.5,"WFP, 2022-09-09",D:\GIS\pak_adm_wfp_20220909_shp\pak_admbnda_adm3_wfp_20220909.shp
+data/pakistan/ocha_2018/pakistan_adm3_tehsils_ocha_2018.geojson,433,3.67,"OCHA, 2018-12-18",D:\GIS\adm\pak_adm_ocha_pco_gaul_20181218_shp\pak_admbnda_adm3_ocha_pco_gaul_20181218.shp
+data/pakistan/admin_set/pakistan_national.geojson,2,0.53,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\National_Boundary.shp
+data/pakistan/admin_set/pakistan_provinces.geojson,8,0.75,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\Provincial_Boundary.shp
+data/pakistan/admin_set/pakistan_districts.geojson,161,3.05,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\District_Boundary.shp
+data/pakistan/admin_set/pakistan_tehsils.geojson,554,6.31,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\Tehsil_Boundary.shp
+data/pakistan/admin_set/pakistan_union_councils.geojson,5884,14.71,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\Union_Council.shp
+data/pakistan/admin_set/pakistan_national_constituencies_population_2010.geojson,273,2.56,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\National_Constituency_with_Projected_2010_Population.shp
+data/pakistan/admin_set/pakistan_provincial_constituencies.geojson,577,3.38,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\Provincial_Constituency.shp
+data/pakistan/admin_set/lahore_district.geojson,1,0.04,"Pakistan administrative boundary set, with my edits",D:\GIS\adminbdy-shapefile\Lahore_District.shp
+data/pakistan/admin_set/sindh_province.geojson,1,0.13,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Adminbdy Shapefile\Sindh.shp
+data/pakistan/edited/pakistan_national_with_kashmir.geojson,2,0.09,"Pakistan administrative boundary set, with my edits",D:\GIS\adm\Pakistan Shapefile with Kashmir\Pakistan_Shapefile_with_Kashmir.shp
+data/pakistan/edited/pakistan_national_outline.geojson,1,2.64,"My Earth Engine asset, with my edits",~\dev\gee-backup\ahmadammargeo\assets\data\pk0.geojson
+data/pakistan/edited/pakistan_tehsils_408_units.geojson,408,6.97,"My Earth Engine asset, with my edits",~\dev\gee-backup\ahmadammargeo\assets\data\pkTehsil.geojson
+data/pakistan/edited/azad_jammu_kashmir_outline.geojson,1,0.06,"My Earth Engine asset, with my edits",~\dev\gee-backup\ahmadammargeo\assets\data\AJKLULC__AJK.geojson
+data/ireland_britain/northern_ireland_local_government_districts_2012.geojson,11,12.43,OSNI Open Data,D:\GIS\OSNI_Open_Data_-_Largescale_Boundaries_-_Local_Government_Districts_(2012)\OSNI_Open_Data_-_Largescale_Boundaries_-_Local_Government_Districts_(2012).shp
+data/ireland_britain/british_isles_outline.geojson,2,0.25,Own file,D:\GIS\British Isles\britisles.shp
+data/third_pole/third_pole_regions_v1_all_levels.geojson,45,3.67,"Own; basins from HydroBASINS, countries from FAO GAUL",~\dev\gee-backup\ahmadammargeo\assets\data\tp_regions_v1.geojson
+data/third_pole/third_pole_regions_v2.geojson,227,9.38,Ranges and divisions from GMBA Mountain Inventory v2; sub-basins from HydroBASINS level 5,~\dev\uib-snow-cover\data\regions\tp_regions_v2.geojson
+data/third_pole/domain_variants/third_pole_domain_strict.geojson,1,1.56,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_strict.shp
+data/third_pole/domain_variants/third_pole_domain_balanced.geojson,1,1.68,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_balanced.shp
+data/third_pole/domain_variants/third_pole_domain_balanced_contiguous.geojson,1,1.15,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_balanced_contig.shp
+data/third_pole/domain_variants/third_pole_domain_expanded.geojson,1,2.1,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_expanded.shp
+data/third_pole/domain_variants/third_pole_domain_expanded_contiguous.geojson,1,1.31,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_exp_contiguous.shp
+data/third_pole/domain_variants/third_pole_domain_balanced_convex_hull.geojson,1,0.0,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_bal_convex_hull.shp
+data/third_pole/domain_variants/third_pole_domain_elevation_above_2000m.geojson,1,2.54,"Own Third Pole domain, derived from DEM and slope in Earth Engine",~\Downloads\thirdpole-20251027T200721Z-1-001\thirdpole\third_pole_elev_only_2000.shp
+data/pakistan/geoboundaries_2019/pakistan_adm2_districts_geoboundaries_2019.geojson,126,,geoBoundaries,D:\GIS\geoBoundariesPK2.geojson
